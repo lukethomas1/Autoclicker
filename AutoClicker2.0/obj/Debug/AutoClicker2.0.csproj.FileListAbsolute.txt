@@ -1,0 +1,39 @@
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe.config
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.csprojResolveAssemblyReference.cache
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.Form1.resources
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.Properties.Resources.resources
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.csproj.GenerateResource.Cache
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.pdb
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.exe
+c:\users\luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.pdb
+C:\Users\Luke\Documents\Visual Studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.hotkeyPopupForm.resources
+C:\Users\Luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe.manifest
+C:\Users\Luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.application
+C:\Users\Luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.exe.manifest
+C:\Users\Luke\documents\visual studio 2013\Projects\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.application
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe.config
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.exe
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.pdb
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.csprojResolveAssemblyReference.cache
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.Form1.resources
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.hotkeyPopupForm.resources
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.Properties.Resources.resources
+C:\Users\luket\Desktop\Flash Drive stuff\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.csproj.GenerateResource.Cache
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe.config
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.exe
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.pdb
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe.manifest
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.application
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.pdb
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.csprojResolveAssemblyReference.cache
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.Form1.resources
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.hotkeyPopupForm.resources
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2._0.Properties.Resources.resources
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.csproj.GenerateResource.Cache
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.exe.manifest
+C:\Users\luket\Desktop\Coding\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.application
+C:\Users\luket\Desktop\Code\AutoClicker2.0\AutoClicker2.0\bin\Debug\AutoClicker2.0.exe.config
+C:\Users\luket\Desktop\Code\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.exe
+C:\Users\luket\Desktop\Code\AutoClicker2.0\AutoClicker2.0\obj\Debug\AutoClicker2.0.pdb
